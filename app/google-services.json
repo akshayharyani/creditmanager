@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568510533967",
+    "firebase_url": "https://credit-manager-ddc5d.firebaseio.com",
+    "project_id": "credit-manager-ddc5d",
+    "storage_bucket": "credit-manager-ddc5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568510533967:android:d0e4f10cf76a1b9d",
+        "android_client_info": {
+          "package_name": "com.ackrotech.creditmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568510533967-q768sev9tiskoiob8vq5sc2d3385oup1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ackrotech.creditmanager",
+            "certificate_hash": "fbb280c48fe169ba9b3125fb0e42438505e82205"
+          }
+        },
+        {
+          "client_id": "568510533967-q77vh270stkme1amndlon5l7t1l853d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2LWBVbJP-Nimf80zGCUx4WxVfhjCwUpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568510533967-q77vh270stkme1amndlon5l7t1l853d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

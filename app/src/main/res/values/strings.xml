@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CreditManager</string>
+
+    <string name="email_label">Please Enter your Email</string>
+    <string name="email_placeholder">Email</string>
+
+    <string name="password_label">Please enter your password</string>
+    <string name="password_placeholder">Password</string>
+
+    <string name="login_button">Login</string>
+
+    <string name="signup_button">Signup</string>
+
+</resources>
